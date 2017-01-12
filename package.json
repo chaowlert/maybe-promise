@@ -1,6 +1,6 @@
 {
   "name": "maybe-promise",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Handling promise or non-promise in one operation",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -9,8 +9,8 @@
     "url": "git://github.com/chaowlert/maybe-promise.git"
   },
   "keywords": [
-    "json",
-    "binding"
+    "maybe",
+    "promise"
   ],
   "author": "Chaowlert Chaisrichalermpol",
   "license": "MIT",
