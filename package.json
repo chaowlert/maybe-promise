@@ -1,6 +1,6 @@
 {
   "name": "maybe-promise",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Handling promise or non-promise in one operation",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -49,12 +49,10 @@
     "remap-istanbul": "^0.8.4",
     "run-sequence": "^1.2.2",
     "sinon": "^1.17.7",
+    "tslib": "^1.5.0",
     "tslint": "^4.3.1",
     "typedoc": "^0.5.3",
     "typescript": "^2.1.4"
   },
-  "dependencies": {
-    "angular-expressions": "^0.3.0",
-    "tslib": "^1.5.0"
-  }
+  "dependencies": {}
 }
